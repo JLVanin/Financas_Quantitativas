@@ -1,2 +1,3 @@
-# Finanças Quantitativas
- Python aplicado a mercado financeiro.
+## Finanças Quantitativas
+
+- Python aplicado a mercado financeiro.
